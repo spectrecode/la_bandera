@@ -1,0 +1,16 @@
+*	{
+	box-sizing: border-box;
+	padding: 0px;
+
+}
+div	{
+	display: inline-block;
+	background-color: yellow;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+
+.es	{
+	background-color: red;
+
+}

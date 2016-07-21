@@ -1,0 +1,20 @@
+*	{
+	box-sizing: border-box;
+	padding: 0px;
+
+}
+div	{
+	display: inline-block;
+	background-color: yellow;
+	width: 30%;
+	padding-bottom: 5%;
+}
+
+p 	{
+	margin: 10px;
+}
+
+.es	{
+	background-color: red;
+
+}

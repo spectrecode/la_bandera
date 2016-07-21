@@ -1,0 +1,16 @@
+*	{
+	box-sizing: border-box;
+	padding: 0px;
+
+}
+div	{
+	width: 300px;
+	margin-bottom: 10px;
+	background-color: yellow;
+	height: 100px;
+}
+
+.es	{
+	background-color: red;
+
+}
