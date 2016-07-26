@@ -1,20 +1,21 @@
-*	{
+.caja {	
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
 	box-sizing: border-box;
-	padding: 0px;
-
+	display: inline;
+	margin-right: 15px;
 }
-div	{
+
+.red {
+	background: red;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
 	display: inline-block;
-	background-color: yellow;
-	width: 30%;
-	padding-bottom: 5%;
-}
-
-p 	{
-	margin: 10px;
-}
-
-.es	{
-	background-color: red;
-
 }

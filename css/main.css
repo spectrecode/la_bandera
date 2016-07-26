@@ -1,15 +1,12 @@
-div	{
-	height: 200px;
-	background-color: #FFFF00;
+.caja {	
+	height: 100px;
 }
 
-p	{
-	height: 25%;
-	display: block;
-	padding: 10px;
-	margin: 0px;
+.red {
+	background: red;
 }
 
-.es	{
-	background-color: red;
+.yellow {
+	background: yellow;
 }
+
